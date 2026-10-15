@@ -1,0 +1,10 @@
+streamlit 
+PyPDF2 
+langchain 
+langchain-community 
+langchain-groq 
+faiss-cpu 
+python-dotenv 
+sentence-transformers
+gTTs
+streamlit-lottie
